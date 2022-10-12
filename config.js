@@ -30,12 +30,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_'
-global.sgh = 'github.com/Alpiii22' //github
+global.sig = 'https://instagram.com/leon_ofc202'
+global.sgh = 'github.com/LeonOfc202' //github
 global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' // my youtube channel
+global.syt = 'https://youtube.com/channel/UCLnDn5I4RPLrkFcKTIsR1-g'
+global.snh = 'https://youtube.com/channel/UCLnDn5I4RPLrkFcKTIsR1-g' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '-' //dana
